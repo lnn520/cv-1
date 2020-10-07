@@ -3,7 +3,7 @@ let n = 0;
 let string2 = ''
 let style = document.querySelector("#style");
 let string = `
-/*你好，我是王裕翔，是一个新人.
+/*你好，我是猪小明，是一个新人.
 我要添加样式了*/
 #div1{
     border: 1px solid red;
